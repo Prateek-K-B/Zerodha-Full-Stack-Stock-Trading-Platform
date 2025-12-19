@@ -28,6 +28,7 @@ This project is designed to be resume-ready and showcases practical full-stack d
 
 📊 Trading-style Dashboard UI
 
+
 🛠️ Backend
 
 🟢 Node.js
